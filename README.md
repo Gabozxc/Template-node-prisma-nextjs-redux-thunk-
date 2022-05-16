@@ -10,7 +10,7 @@
 <h2>Front</h2>
 <ul>
 <li>Nextjs</li>
-<li>react-redux</li>
-<li>redux-thunk</li>
-<li>tailwind</li>
+<li>React-Redux</li>
+<li>Redux-Thunk</li>
+<li>Tailwind</li>
 </ul>
